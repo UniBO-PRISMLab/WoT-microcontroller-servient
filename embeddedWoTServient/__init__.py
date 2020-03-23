@@ -1,1 +1,1 @@
-from .embeddedWotServient import cli, build, compile, flash
+from .embeddedWoTServient import cli, build, compile, flash
