@@ -1047,7 +1047,7 @@ environmentPrepared = False
 @click.pass_context
 def cli(ctx, **kwargs):
     """WoT module for build TDs and executable scripts for embedded systems"""
-    click.echo('This module allow you to build custom Thing Descriptions and executable scripts for expose Things on Embedded Systems')
+    click.echo('This module allows you to build custom Thing Descriptions and executable scripts for expose Things on Embedded Systems')
     click.echo('Use --help option to see documentation\n')
     if(ctx.invoked_subcommand is None):
         click.confirm('Use the wizard?', default=True, abort=True)
