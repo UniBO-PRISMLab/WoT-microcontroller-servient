@@ -11,6 +11,7 @@ This package is only supported by Linux systems.
 
 **Linux**
 - Python v3.6.x
+- pip Python package manager
 - A proper C/C++ compiler toolchain, like GCC
 
 ## Usage
