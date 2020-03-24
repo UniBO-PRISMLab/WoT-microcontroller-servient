@@ -56,16 +56,16 @@ embeddedWoTServient start
 
 **Scripting API**
 
-- RESTful API
+- RESTful API :heavy_check_mark:
 
 **Protocol Support**
 
-- HTTP
-- WebSocket
+- HTTP :heavy_check_mark:
+- WebSocket :heavy_check_mark:
 
 **MediaType Support**
 
-- JSON
+- JSON :heavy_check_mark:
 
 ## License
 WoT-microcontroller-servient is released under the MIT License.
